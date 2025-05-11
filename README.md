@@ -1,2 +1,2 @@
 # Simple-ImGui-External-Menu
-It's a simple ImGui Menu that has been set up with DX9 and Win32
+A simple ImGui Menu that has been set up with DX9 and Win32
